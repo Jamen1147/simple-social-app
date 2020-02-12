@@ -1,0 +1,12 @@
+export const USER_LOGIN = 'USER_LOGIN';
+export const USER_LOGIN_LOADING = 'USER_LOGIN_LOADING';
+export const USER_LOGIN_FAILED = 'USER_LOGIN_FAILED';
+
+export const ADD_POSTS = 'ADD_POSTS';
+export const ADD_POST = 'ADD_POST';
+export const ADD_POST_LOADING = 'ADD_POST_LOADING';
+export const ADD_POST_FAILED = 'ADD_POST_FAILED';
+
+export const ADD_COMMENT = 'ADD_COMMENT';
+export const ADD_COMMENT_LOADING = 'ADD_COMMENT_LOADING';
+export const ADD_COMMENT_FAILED = 'ADD_COMMENT_FAILED';

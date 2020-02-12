@@ -1,0 +1,12 @@
+$color-black: #000;
+.btn {
+  text-transform: uppercase;
+  padding: 1.5rem 4rem;
+  display: inline-block;
+  border-radius: 10rem;
+  font-size: 1.6rem;
+  box-shadow: 0 1rem 2rem rgba($color-black, 0.2);
+  cursor: pointer;
+  outline: none;
+  width: 22rem;
+}
